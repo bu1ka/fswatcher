@@ -10,7 +10,7 @@ pip install -r requirements.txt
 ###How to use
 
 ```shell
-fswatcher.py [-h] -c [CMD] [-d [DELAY]] [-v] path
+fswatcher.py [-h] path -c [CMD] [-d [DELAY]] [-v] 
 ```
 
 * **path** - the path that you want to watching (is required)
